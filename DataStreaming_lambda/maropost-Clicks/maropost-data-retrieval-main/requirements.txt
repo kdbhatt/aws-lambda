@@ -1,0 +1,13 @@
+arrow
+boto3
+black
+boto3-stubs
+boto3-stubs[dynamodb]
+boto3-stubs[firehose]
+requests
+pytest
+pytest-cov
+pydantic
+hypothesis
+watchtower
+freezegun
